@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Sah</h1>
 <h3 align="center">I am CSE Final year Student skilled in developing data-driven solutions and implementing ML models to derive valuable insights.</h3>
 
-<img align = "right" alt="Coding" width = "500" src="https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif">
+<img align = "right" alt="Coding" width = "460" src="https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif">
 - 🔭 I’m currently working on **Twitter Emotions Classification**
 
 - 🌱 I’m currently learning **Deep Learning Framework**
