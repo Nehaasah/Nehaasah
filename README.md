@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning Framework**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Cloud Computing and CS Core subjects**
+- 💬 Ask me about **Machine Learning, Deep Learning, Cloud Computing, Data Analysis and Visualization and  CS Core subjects**
 
 - 📫 How to reach me **nehasah7802@gmail.com**
 
