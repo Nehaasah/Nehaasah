@@ -30,3 +30,13 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 </p>
+
+<h3 align="left">Projects:</h3>
+
+🔬 **[Covid-19 Lung Segmentation & Classification](https://github.com/Nehaasah/Covid19-infection-Lung-segmentation-and-classification)** — U-Net pipeline for pixel-wise lung segmentation from CT scans (NIfTI). Dice: 82%, IoU: 70%. `Python` `TensorFlow` `OpenCV`
+
+🎬 **[Bollywood Movie Analysis & Suggestions](https://github.com/Nehaasah/Bollywood-Movie-World-Analysis-and-Suggestions)** — Data analysis and recommendation system on Bollywood movie dataset. `Python` `Pandas` `Seaborn`
+
+😊 **[Twitter Emotions Classification](https://github.com/Nehaasah/Twitter-Emotions-Classification)** — NLP model to classify emotions from tweets. `Python` `Scikit-learn` `NLP`
+
+📰 **[Fake News Detection System](https://github.com/Nehaasah/Fake-News-Detection-System)** — ML classifier to detect fake news articles using text features. `Python` `Scikit-learn`
